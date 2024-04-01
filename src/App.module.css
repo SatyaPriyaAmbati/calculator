@@ -1,0 +1,24 @@
+.cal{
+  border:1px solid lightskyblue;
+  width:200px;
+  border-radius:5px;
+  height: 400px;;
+  background-color: azure;
+}
+.display{
+  margin:10px;
+  width:175px;
+  font-size:25px;
+}
+.buttonContainer
+{
+   display:flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+.buttons
+{
+    width:45px;
+    height: 45px;
+    margin: 3px;
+}
